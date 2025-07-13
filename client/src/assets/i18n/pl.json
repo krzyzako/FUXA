@@ -1,0 +1,137 @@
+{
+    
+"with param": "przykład {{value}}",
+
+"app.home": "Strona główna",
+"app.lab": "Laboratorium",
+"app.editor": "Edytor",
+
+"header.new-project": "Nowy projekt",
+"header.save-project": "Zapisz projekt",
+"header.save-project-tooltip": "Zapisz wszystkie zaległe zmiany w projekcie",
+
+"header.saveas-project": "Zapisz projekt jako...",
+"header.rename-project": "Zmień nazwę projektu",
+"header.open-project": "Otwórz projekt",
+"header.edit-project": "Edytuj projekt",
+"header.edit-views": "Edytor widoków",
+"header.edit-devices": "Ustawienia połączeń",
+"header.edit-charts": "Ustawienia wykresów",
+"header.edit-layout": "Ustawienia układu",
+"header.edit-plugins": "Wtyczki",
+"header.edit-users": "Ustawienia użytkowników",
+"header.edit-alarms": "Ustawienia alarmów",
+"header.edit-texts": "Ustawienia tekstów",
+"header.help": "Pomoc FUXA",
+"header.help-tutorial": "Samouczek",
+"header.help-info": "O programie",
+"header.change-thema": "Przełącz motyw (beta)",
+"header.info-version": "Wersja",
+"header.theme": "Motyw jasny/ciemny",
+"project.name": "Nazwa projektu",
+"sidenav.title": "FUXA",
+"tutorial.title": "Samouczek FUXA",
+"dlg.info-title": "FUXA",
+"dlg.layout-title": "Ustawienia układu",
+
+"dlg.layout-general": "Ogólne",
+
+"dlg.layout-lbl-auto-resize": "Automatyczna zmiana rozmiaru",
+
+"dlg.layout-lbl-logo": "Logo",
+
+"dlg.layout-lbl-icon": "Ikona",
+
+"dlg.layout-lbl-sview": "Widok startowy",
+
+"dlg.layout-lbl-login-start": "Pokaż logowanie na starcie",
+
+"dlg.layout-lbl-login-overlay-color": "Kolor nakładki",
+
+"dlg.layout-lbl-zoom": "Powiększenie",
+
+"dlg.layout-navigation-mode": "Pokaż nawigację",
+
+"dlg.layout-connection-message": "Pokaż błąd połączenia (Toast)",
+"dlg.layout-show-dev": "Pokaż przycisk",
+"dlg.layout-navigation": "Menu boczne nawigacji",
+"dlg.layout-nav-bkcolor": "Kolor tła",
+"dlg.layout-nav-fgcolor": "Kolor",
+"dlg.layout-lbl-smode": "Tryb boczny",
+"dlg.layout-lbl-type": "Typ",
+"dlg.layout-header": "Pasek nawigacyjny nagłówka",
+"dlg.layout-header-bkcolor": "Kolor tła",
+"dlg.layout-header-fgcolor": "Kolor",
+"dlg.layout-lbl-title": "Tytuł",
+"dlg.layout-lbl-alarms": "Tryb powiadomień o alarmach",
+"dlg.layout-lbl-datetime": "Format daty i godziny (dd/MM/rrrr - gg:mm a)",
+
+"dlg.layout-lbl-infos": "Tryb powiadomień",
+
+"dlg.layout-lbl-font": "Rodzina czcionek",
+
+"dlg.layout-lbl-font-size": "Rozmiar czcionki",
+
+"dlg.layout-lbl-anchor": "Kierunek",
+
+"dlg.layout-lbl-margin-left": "Margines lewy",
+
+"dlg.layout-lbl-margin-right": "Margines prawy",
+
+"dlg.layout-lbl-login-info": "Informacje o logowaniu",
+
+"dlg.layout-lbl-custom-styles": "Style niestandardowe",
+
+"dlg.layout-lbl-show-language": "Pokaż język",
+
+"dlg.menuitem-title": "Pozycja menu",
+"dlg.menuitem-image": "[Mój obraz...]",
+"dlg.menuitem-icon": "Ikona",
+"dlg.menuitem-text": "Tekst",
+"dlg.menuitem-view": "Wyświetlanie po kliknięciu",
+"dlg.menuitem-link": "Link po kliknięciu",
+"dlg.menuitem-alarms": "Alarmy po kliknięciu",
+"dlg.menuitem-address": "Adres linku",
+"dlg.menuitem-icons-filter": "Filtr ikon",
+
+"dlg.headeritem-title": "Element nagłówka",
+"dlg.headeritem-icon": "Ikona",
+"dlg.headeritem-icons-filter": "Filtr ikon",
+
+"dlg.docproperty-title": "Wyświetlanie właściwości",
+"dlg.docproperty-name": "Nazwa",
+"dlg.docproperty-width": "Szerokość",
+"dlg.docproperty-height": "Wysokość",
+"dlg.docproperty-background": "Tło",
+"dlg.docproperty-size": "Rozmiar predefiniowany",
+"dlg.docproperty-select": "Wybierz wymiary",
+"dlg.docproperty-size-320-240": "320 x 240 pikseli",
+"dlg.docproperty-size-460-360": "460 x 360 pikseli",
+"dlg.docproperty-size-640-480": "640 x 480 pikseli",
+"dlg.docproperty-size-800-600": "800 x 600 pikseli",
+"dlg.docproperty-size-1024-768": "1024 x 768 pikseli",
+"dlg.docproperty-size-1280-960": "1280 x 960 pikseli",
+"dlg.docproperty-size-1600-1200": "1600 x 1200 pikseli",
+"dlg.docproperty-size-1920-1080": "1920 x 1080 pikseli",
+"dlg.docproperty-margin": "Margines",
+"dlg.docproperty-align": "Wyrównanie",
+"dlg.docproperty-align-placeholder": "Wyrównanie na stronie",
+"dlg.docproperty-align-topCenter": "Góra",
+"dlg.docproperty-align-middleCenter": "Środek",
+"dlg.docproperty-gridtype": "Typ siatki",
+"dlg.docproperty-gridtype-placeholder": "Typ układu siatki",
+"dlg.docproperty-gridtype-fit": "Dopasuj",
+"dlg.docproperty-gridtype-scrollVertical": "Przewijanie w pionie",
+"dlg.docproperty-gridtype-scrollHorizontal": "Przewijanie w poziomie",
+"dlg.docproperty-gridtype-fixed": "Stała",
+"dlg.docproperty-gridtype-verticalFixed": "Stała w pionie",
+"dlg.docproperty-gridtype-horizontalFixed": "Stała w poziomie",
+"dlg.docproperty-renderDelay": "Opóźnienie renderowania widoku (ms)",
+
+"dlg.docname-title": "Nazwa widoku",
+"dlg.docname-name": "Nazwa",
+"dlg.docproperty-type": "Typ widoku",
+"dlg.item-title": "Nazwa",
+"dlg.item-name": "Nazwa",
+"dlg.item-req-name": "Nazwa funkcji (bez spacji i cyfr)"
+}
