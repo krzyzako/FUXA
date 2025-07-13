@@ -17,6 +17,7 @@ import { Utils } from '../../_helpers/utils';
 export class AppSettingsComponent implements OnInit {
 
     languageType = [
+        { text: 'dlg.app-language-pl', value: 'pl' },
 		{ text: 'dlg.app-language-de', value: 'de' },
 		{ text: 'dlg.app-language-en', value: 'en' },
 		{ text: 'dlg.app-language-es', value: 'es' },
