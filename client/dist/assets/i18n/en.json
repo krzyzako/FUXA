@@ -1590,6 +1590,7 @@
     "dlg.app-settings-smtp-test": "Test",
     "dlg.app-settings-language": "Language",
     "dlg.app-language-de": "German",
+    "dlg.app-language-pl":"Polski",
     "dlg.app-language-en": "English",
     "dlg.app-language-ru": "Russian",
     "dlg.app-language-ua": "Ukrainian",
